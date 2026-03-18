@@ -1,0 +1,9 @@
+# version 1: ""
+# - this will only contain GET, no authentication, no authorization
+# -
+
+
+# version 2: ""
+# - add POST, PATCH, etc
+# - add LOGIN and REGISTER
+# - add authentication -for GET- and authorization -for POST, and other methods, only some users can do POST-

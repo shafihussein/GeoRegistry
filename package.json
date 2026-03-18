@@ -1,0 +1,21 @@
+{
+  "name": "georegistry",
+  "version": "1.0.0",
+  "description": "This is a project that will allow a user to choose a country then enter postal/zipcode or region then it prints a map and other meta-data about the region",
+  "license": "MIT",
+  "author": "shafi hussein",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^5.8.2",
+    "pg": "^8.20.0"
+  }
+}
